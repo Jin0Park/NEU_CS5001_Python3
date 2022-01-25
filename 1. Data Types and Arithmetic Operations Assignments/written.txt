@@ -1,0 +1,32 @@
+Jin Young Park
+CS5001 Fall 2021
+
+Q1.
+a) int
+b) int
+c) string
+d) boolean
+e) float
+f) string
+g) int
+h) float
+
+Q2.
+a) 1.4
+b) 1.4
+c) 1
+d) 169
+e) 0
+f) 1138purple
+g) 3
+h) yellowyellow
+
+Q3.
+The variable hello has not ben defined. Also, it is not a string since not in quotation mark (either '' or "").
+
+Q4. 
+27
+
+user_number = 10
+x = 3
+x = 27
